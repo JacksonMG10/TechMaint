@@ -1,0 +1,22 @@
+export const laptopChecklistItems = [
+  { id: 1, name: "Limpieza del teclado y pantalla", completed: false },
+  { id: 2, name: "Revisión de puertos USB, HDMI, etc.", completed: false },
+  { id: 3, name: "Estado y salud de la batería", completed: false },
+  { id: 4, name: "Verificación del cargador", completed: false },
+  { id: 5, name: "Limpieza de ventilaciones laterales", completed: false },
+  { id: 6, name: "Monitoreo de temperatura", completed: false },
+  { id: 7, name: "Análisis de disco y RAM", completed: false },
+  { id: 8, name: "Estado de bisagras de la pantalla", completed: false },
+  { id: 9, name: "Actualización del sistema y drivers", completed: false },
+  { id: 10, name: "Revisión del antivirus y firewall", completed: false },
+  { id: 11, name: "Escaneo en busca de malware", completed: false },
+  { id: 12, name: "Verificación de conexión Wi-Fi", completed: false },
+  { id: 13, name: "Revisión de audio y cámara web", completed: false },
+  { id: 14, name: "Verificación del touchpad", completed: false },
+  { id: 15, name: "Control del estado de arranque y rendimiento", completed: false },
+  { id: 16, name: "Verificación del sistema de suspensión y energía", completed: false },
+  { id: 17, name: "Estado del sistema de respaldo", completed: false },
+  { id: 18, name: "Comprobación de recuperación del sistema", completed: false },
+  { id: 19, name: "Verificación del teclado físico", completed: false },
+  { id: 20, name: "Evaluación general del rendimiento", completed: false }
+];

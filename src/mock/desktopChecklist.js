@@ -1,0 +1,21 @@
+export const desktopChecklistItems = [
+  { id: 1, name: "Limpieza interna con aire comprimido", completed: false },
+  { id: 2, name: "Limpieza de periféricos", completed: false },
+  { id: 3, name: "Revisión de cables de alimentación y datos", completed: false },
+  { id: 4, name: "Verificación de temperatura del CPU y GPU", completed: false },
+  { id: 5, name: "Revisión de pasta térmica del procesador", completed: false },
+  { id: 6, name: "Verificación de ventiladores funcionando", completed: false },
+  { id: 7, name: "Análisis de disco duro", completed: false },
+  { id: 8, name: "Prueba de RAM", completed: false },
+  { id: 9, name: "Limpieza externa del case", completed: false },
+  { id: 10, name: "Verificación del funcionamiento del UPS o regulador", completed: false },
+  { id: 11, name: "Actualización del sistema operativo", completed: false },
+  { id: 12, name: "Actualización del antivirus", completed: false },
+  { id: 13, name: "Escaneo completo del sistema", completed: false },
+  { id: 14, name: "Desinstalación de programas innecesarios", completed: false },
+  { id: 15, name: "Revisión de espacio libre en disco", completed: false },
+  { id: 16, name: "Verificación de copias de seguridad", completed: false },
+  { id: 17, name: "Revisión del estado del BIOS/UEFI", completed: false },
+  { id: 18, name: "Verificación de conexión a red", completed: false },
+  { id: 19, name: "Revisión de integridad del sistema de archivos", completed: false }
+];
